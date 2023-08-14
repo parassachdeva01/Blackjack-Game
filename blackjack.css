@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(224, 133, 76);
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+
+#dealer-cards img{
+    height: 175px;
+    width: 125px;
+    margin: 2px;
+    border: 2px solid black;
+}
+
+#your-cards img{
+    height: 175px;
+    width: 125px;
+    margin: 2px;
+    border: 2px solid black;
+}
+
+#hit{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: green;
+}
+
+#stay{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: red;
+}
